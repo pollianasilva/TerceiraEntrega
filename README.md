@@ -32,6 +32,7 @@ Front-end
 
   ## Segunda entrega do projeto 
   - Entregue em: https://github.com/pollianasilva/SegundaEntregaRecode
+    
     (Atualização do site de viagens)
 - Preview: https://beijaflorturismoo.netlify.app/
   

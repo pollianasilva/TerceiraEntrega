@@ -31,9 +31,10 @@ Front-end
  Criação do Pseudocódigo da Agencia de Viagens.
 
   ## Segunda entrega do projeto 
-  - Entregue em: https://github.com/pollianasilva/SegundaEntregaRecode 
+  - Entregue em: https://github.com/pollianasilva/SegundaEntregaRecode
+    (Atualização do site de viagens)
 - Preview: https://beijaflorturismoo.netlify.app/
-- (Atualização do site de viagens)
+  
   Modelo conceitual e lógico do banco de dados.
 
  Cardinalidades entre as tabelas do modelo do banco.

@@ -32,7 +32,8 @@ Front-end
 
   ## Segunda entrega do projeto 
   - Entregue em: https://github.com/pollianasilva/SegundaEntregaRecode 
-- Preview: https://beijaflorturismoo.netlify.app/ (Atualização do site de viagens)
+- Preview: https://beijaflorturismoo.netlify.app/
+- (Atualização do site de viagens)
   Modelo conceitual e lógico do banco de dados.
 
  Cardinalidades entre as tabelas do modelo do banco.

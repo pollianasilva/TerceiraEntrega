@@ -4,6 +4,11 @@ Essa é a terceira entrega individual solicitada pelo curso Recode-pro
 
 Video demo:
 
+
+https://github.com/pollianasilva/TerceiraEntregaRecode/assets/140568849/69e8730b-4631-4b1f-8e31-c54a4895dbed
+
+
+
 Nessa entrega foi solicitado:
 
 <strong>Banco de dados 

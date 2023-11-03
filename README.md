@@ -5,8 +5,7 @@ Essa é a terceira entrega individual solicitada pelo curso Recode-pro
 Video demo:
 
 
-https://github.com/pollianasilva/TerceiraEntregaRecode/assets/140568849/69e8730b-4631-4b1f-8e31-c54a4895dbed
-
+https://github.com/pollianasilva/TerceiraEntregaRecode/assets/140568849/a725d09a-0bff-41c8-888c-dfd1eeb6480b
 
 
 Nessa entrega foi solicitado:

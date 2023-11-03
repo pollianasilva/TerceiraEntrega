@@ -21,7 +21,7 @@ Front-end
 - Criar uma nova versão do site usando o padrão de projeto MVC (Model, View, Controller (Conectar todas as telas de cadastro ao banco de dados usando o padrão de projetos MVC). </strong>
 
 # Entregas anteriores
- ## Primeira entrega do projeto 
+ ## Primeira entrega  
   - Entregue em: https://github.com/pollianasilva/Recode-Pro
  - Preview: https://beijaflorturismo.netlify.app/
 
@@ -30,7 +30,7 @@ Front-end
 
  Criação do Pseudocódigo da Agencia de Viagens.
 
-  ## Segunda entrega do projeto 
+  ## Segunda entrega 
   - Entregue em: https://github.com/pollianasilva/SegundaEntregaRecode
   - Atualização do site de viagens, preview: https://beijaflorturismoo.netlify.app/
   
